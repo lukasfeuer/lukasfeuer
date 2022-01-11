@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm [Lukas Feuer](https://github.com/lukasfeuer/lukasfeuer),
 
-I'm a **Data Scientist** and **Psychologist (M.Sc.)** based in Germany. I just started to also use GitHub for my private projects so it might me a bit empty here for a while. 
+I'm a **Data Scientist** and **Psychologist (M.Sc.)** based in Germany.
 
 I mostly work with R and in the context of Shiny and Markdown I am also familiar with HTML and CSS. I am also very interested in Julia and hope to work more with this language in the future. 
 
