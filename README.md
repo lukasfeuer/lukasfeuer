@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-Hi, I'm [Lukas Feuer](lukasfeuer.de),
+Hi, I'm [Lukas Feuer](https://github.com/lukasfeuer/lukasfeuer),
 
 I'm a **Data Analyst** and **Psychologist (M.Sc.)** based in Germany.
 
