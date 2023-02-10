@@ -14,3 +14,5 @@ Hi, I'm [Lukas Feuer](https://github.com/lukasfeuer/lukasfeuer),
 I'm a **Data Analyst** and **Psychologist (M.Sc.)** based in Germany.
 
 My current focus is on data analytics using **R** but I am also working with **Julia** and **Python**. 
+
+To lean more about me visit: lukasfeuer.de
