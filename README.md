@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-Hi, I’m @lukasfeuer,
+Hi, I’m Lukas,
 
-I'm a **Data Analyst** and **Psychologist (M.Sc.)** based in Germany.
+I am a **Data Analyst** and **Psychologist (M.Sc.)** based in Germany.
 
 I focus on data analytics using **R** but I am also working with **Julia** and **Python** and I am always curious to learn new technologies. 
 
