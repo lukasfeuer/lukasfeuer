@@ -15,4 +15,4 @@ I'm a **Data Analyst** and **Psychologist (M.Sc.)** based in Germany.
 
 My current focus is on data analytics using **R** but I am also working with **Julia** and **Python**. 
 
-To lean more about me visit: lukasfeuer.de
+To lean more about me visit: [lukasfeuer.de](lukasfeuer.de)
