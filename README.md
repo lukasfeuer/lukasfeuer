@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-Hi, I'm [Lukas Feuer](https://github.com/lukasfeuer/lukasfeuer),
+Hi, I’m @lukasfeuer,
 
 I'm a **Data Analyst** and **Psychologist (M.Sc.)** based in Germany.
 
-My current focus is on data analytics using **R** but I am also working with **Julia** and **Python**. 
+I focus on data analytics using **R** but I am also working with **Julia** and **Python** and I am always curious to learn new technologies. 
 
-To lean more about me visit: [lukasfeuer.de](lukasfeuer.de)
+To lean more about me visit: [lukasfeuer.de](https://www.lukasfeuer.de)
